@@ -116,4 +116,4 @@ pip install numpy pandas scikit-learn xgboost shap optuna matplotlib seaborn
 
 ## Conclusion
 
-This notebook demonstrates the complete pipeline of data preprocessing, feature selection with PCA, model training using **XGBoost**, hyperparameter tuning with **Optuna**, and interpretability using **SHAP**. Despite its misleading filename, it is focused on **XGBoost**, not Random Forest.
+This notebook demonstrates the complete pipeline of data preprocessing, feature selection with PCA, model training using **XGBoost**, hyperparameter tuning with **Optuna**, and interpretability using **SHAP**.
